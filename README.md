@@ -3,7 +3,7 @@ Simple animation in OpenJsCad
 
 https://openjscad.org/#https://erasta.github.io/openjscad_animation/clock_anim.js
 
-[![Video demo](erasta.github.io/openjscad_animation/clock_ball_openjscad.gif)](https://openjscad.org/#https://erasta.github.io/openjscad_animation/clock_anim.js)
+[![Video demo](clock_ball_openjscad.gif)](https://openjscad.org/#https://erasta.github.io/openjscad_animation/clock_anim.js)
 
 The animation is of a moving sphere in circles around the middle.
 
